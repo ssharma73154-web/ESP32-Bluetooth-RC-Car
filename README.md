@@ -15,6 +15,8 @@ A Bluetooth-controlled RC car project powered by an Arduino microcontroller. Thi
 * LEDs (Red & Blue for Strobe)
 * Jumper Wires & Power Supply (Battery)
 
+![RC Car Circuit Diagram](aapki-photo-ka-naam.jpg)
+
 ## 💻 How to use
 1. Upload the provided `.ino` file to the Arduino using the Arduino IDE. (Note: Disconnect the HC-05 TX/RX pins while uploading code).
 2. Connect the hardware according to the pin definitions in the code.
