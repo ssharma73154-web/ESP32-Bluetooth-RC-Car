@@ -1,4 +1,4 @@
-# Arduino Bluetooth RC Car 🚗
+i# Arduino Bluetooth RC Car 🚗
 
 A Bluetooth-controlled RC car project powered by an Arduino microcontroller. This project features wireless mobile control and custom police-style alternating strobe lights.
 
@@ -15,7 +15,7 @@ A Bluetooth-controlled RC car project powered by an Arduino microcontroller. Thi
 * LEDs (Red & Blue for Strobe)
 * Jumper Wires & Power Supply (Battery)
 
-![RC Car Circuit Diagram](aapki-photo-ka-naam.jpg)
+![RC Car Circuit Diagram](Circuit Diagram.png)
 
 ## 💻 How to use
 1. Upload the provided `.ino` file to the Arduino using the Arduino IDE. (Note: Disconnect the HC-05 TX/RX pins while uploading code).
