@@ -16,7 +16,7 @@ A Bluetooth-controlled RC car project powered by an Arduino microcontroller. Thi
 * Jumper Wires & Power Supply (Battery)
 
 ![RC Car Circuit Diagram]
-(Circuit Diagram.png.jpg)
+(Circui Diagram.jpg)
 
 ## 💻 How to use
 1. Upload the provided `.ino` file to the Arduino using the Arduino IDE. (Note: Disconnect the HC-05 TX/RX pins while uploading code).
